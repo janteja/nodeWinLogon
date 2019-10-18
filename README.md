@@ -20,3 +20,5 @@ https://gallery.technet.microsoft.com/scriptcenter/Get-All-AD-Users-Logon-9e721a
 Author: phyoepaing3.142@gmail.com                                                                                                               
 (Modified the computer name part to get it working.)
 
+# Gallery
+![alt text](https://github.com/janteja/nodeWinLogon/blob/master/Screenshot.png?raw=true)
